@@ -1,0 +1,63 @@
+.body {
+  background: #ffe800 url(http://www.veggietales.com/skin/frontend/veggie/default/images/bg_body.png) repeat;
+  background-image: url(http://www.veggietales.com/skin/frontend/veggie/default/images/bg_body.png);
+  background-position-x: initial;
+  background-position-y: initial;
+  background-size: initial;
+  background-repeat-x: repeat;
+  background-repeat-y: repeat;
+  background-attachment: initial;
+  background-origin: initial;
+  background-clip: initial;
+  background-color: rgb(255, 232, 0);
+}
+
+.ui.container {
+  background-color: white;
+  color: white;
+}
+
+.ui.menu.topmenu .container{
+  box-shadow: none;
+  border: none;
+  color: white;
+  background-color: #ff7900;
+}
+
+.ui.menu.topmenu .u {
+  color: white;
+}
+
+.ui.input .icon{
+  color: #ff7900;
+}
+
+.ui.menu.mainmenu {
+  background-color: #32a72a;
+  box-shadow: none;
+  border: none;
+  color: white;
+  padding: auto;
+  margin-top: -15px;
+}
+
+.ui.two.column.grid .row {
+  margin-top: -10px;
+  margin-bottom: -10px;
+}
+
+.ui.menu {
+  border-radius: 0px !important;
+}
+
+.ui.ribbon.label {
+  height: 150px;
+  width: 300px;
+  font-size: 40px;
+}
+
+.gray-background {
+  background-color: #efefef;
+  margin-top: 50px;
+  height: 200px;
+}
